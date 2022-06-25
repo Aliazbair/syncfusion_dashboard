@@ -1,7 +1,7 @@
 import React from 'react';
 
 function Notifiction() {
-  return <div>Notifiction</div>;
+  return <div>Notn</div>;
 }
 
 export default Notifiction;
